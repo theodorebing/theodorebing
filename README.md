@@ -10,7 +10,7 @@
 <br>
 <br>
 
-- :floppy_disk: I’m a **Fullstack Developper** using *JavaScript*, *node.js* and *React*, and I'm interested in learning new languages and frameworks.
+- :floppy_disk: I’m a French **Fullstack Developper**.
 
 <br>
 
@@ -57,9 +57,6 @@ Here you'll find past repositories I've worked on during my schooling and person
   <strong>:white_check_mark: React</strong>
 </p> 
 <br>
-<p align="center" >
-  <strong>:white_check_mark: Redux</strong>
-</p> 
 <br>
 <p align="center" >
   <strong>:recycle: and much more!</strong>
