@@ -1,7 +1,11 @@
 <p align="center">
   <img src="https://github.com/theodorebing/theodorebing/blob/main/img/matrix-l.jpeg" alt="head">
 </p>
-<h1 align="center" color="blue" font-size="46px">Hi, I’m @theodorebing</h1>
+<br>
+<br>
+<h1 align="center">:star2: Hi, I’m Théodore Bing :star2:</h1>
+<br>
+<h3 align="center">@theodorebing</h3>
 <br>
 <br>
 <br>
@@ -14,23 +18,65 @@
 
 <br>
 
-- :mailbox_with_mail: How to reach me : theodorebing.dev@gmail.com / https://www.linkedin.com/in/theodorebing/
+- :mailbox_with_mail: How to reach me : 
+
+<p align="center">
+  <strong>e-mail</strong>
+</p>
+<p align="center">
+  <a href="theodorebing.dev@gmail.com" taget="_blank" title="email">theodorebing.dev@gmail.com</a> 
+</p>
+<br>
+<p align="center">
+<strong>LinkedIn profile</strong>
+</p>
+<p align="center">
+https://www.linkedin.com/in/theodorebing/
+</p> 
 
 <br>
 <br>
 
+<p align="center">
 Here you'll find past repositories I've worked on during my schooling and personnal projects I've created on my own with
-**HTML/CSS**, **JavaScript**, **Node.js**, **Express.js**, **React**, **Redux** and much more!
+</p>
+<p align="center" >
+   :white_check_mark: (needless to say) HTML/CSS 
+</p>
+<br>
+<p align="center" >
+  <strong>:white_check_mark: JavaScript</strong>
+</p> 
+<br>
+<p align="center" >
+  <strong>:white_check_mark: Node.js</strong>
+</p> 
+<br>
+<p align="center" >
+  <strong>:white_check_mark: React</strong>
+</p> 
+<br>
+<p align="center" >
+  <strong>:white_check_mark: Redux</strong>
+</p> 
+<br>
+<p align="center" >
+  <strong>:recycle: and much more!</strong>
+</p> 
 
 <br>
+
+<p align="center" >
+  So you will be able to follow my footsteps :mans_shoe: in this neverending learning process.
+</p> 
   
-So you will be able to follow my footsteps in this neverending learning process.
+
 
 <br>
 <br>
 
 <h3 align="center">
- Feel free to contact me with your questions and suggestions and I'll be pleased to answer back 
+ Feel free to <strong>contact me</strong> with your questions and suggestions and I'll be pleased to answer back! 
 </h3>
 
 <br>
