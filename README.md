@@ -13,9 +13,11 @@ Here you'll find past repositories I've worked on during my schooling and person
 So you will be able to follow my footsteps in this neverending learning process.
 
 ```diff
-- Feel free to contact me with your questions and suggestions and I'll be pleased to answer back :wink:
-```
-
+  Feel free to contact me with your questions and suggestions and I'll be pleased to answer back 
+``` 
+<p align="center">
+:wink:
+</p>
 <p align="center">
   <img src="https://github.com/theodorebing/theodorebing/blob/main/img/goodbye.jpg" alt="head" width="500"> 
 </p>
