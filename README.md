@@ -5,7 +5,7 @@
 <br>
 <h1 align="center">:star2: Hi, I’m Théodore Bing :star2:</h1>
 <br>
-<h3 align="center">@theodorebing</h3>
+<h3 align="center"><a href="https://github.com/theodorebing" taget="_blank" title="github">@theodorebing</a></h3>
 <br>
 <br>
 <br>
@@ -40,6 +40,7 @@ https://www.linkedin.com/in/theodorebing/
 <p align="center">
 Here you'll find past repositories I've worked on during my schooling and personnal projects I've created on my own with
 </p>
+<br>
 <p align="center" >
    :white_check_mark: (needless to say) HTML/CSS 
 </p>
@@ -69,11 +70,6 @@ Here you'll find past repositories I've worked on during my schooling and person
 <p align="center" >
   So you will be able to follow my footsteps :mans_shoe: in this neverending learning process.
 </p> 
-  
-
-
-<br>
-<br>
 
 <h3 align="center">
  Feel free to <strong>contact me</strong> with your questions and suggestions and I'll be pleased to answer back! 
